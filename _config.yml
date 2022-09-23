@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Dongyeon's Git_Vlog"
+title                    : "Dongyeon's Git Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dongyeon-0822"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dongyeon-0822/dongyeon-0822.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Dongyeon's Git_Vlog"
+masthead_title           : "Dongyeon's Git Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

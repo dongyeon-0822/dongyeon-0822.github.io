@@ -1,1 +1,1 @@
-## dongyeon's git vlog!
+## dongyeon's git blog!
