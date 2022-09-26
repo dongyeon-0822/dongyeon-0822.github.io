@@ -18,5 +18,5 @@ main:
     url: /tags/
   - title : "Year"
     url : /year-archive/
-  - title: "Collections"
+  - title: "Portfolio"
     url: /collection-archive/
