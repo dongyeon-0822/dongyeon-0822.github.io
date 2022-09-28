@@ -85,6 +85,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: $type-size-5;
+  font-family: $myfont_2;
+  font-weight: 300;
+  color: rgb(100, 100, 100);
 
   &--lg {
     padding-right: 2em;

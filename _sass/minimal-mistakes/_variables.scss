@@ -17,7 +17,8 @@ $serif: "NanumSquare", Georgia, Times, serif !default;
 $sans-serif: "NanumSquare", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "NanumSquare", Monaco, Consolas, "Lucida Console", monospace !default;
-$myfont: "GangwonEdu_OTFBoldA" !default;
+$myfont_1: "NanumSquare" !default;
+$myfont_2: "NanumSquareRound" !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -157,7 +158,7 @@ $max-width: $x-large !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow: 100px !default;    // default 200px
-$right-sidebar-width: 200px !default;           // default 300px
+$right-sidebar-width: 250px !default;           // default 300px
 $right-sidebar-width-wide: 250px !default;      // default 400px
 
 /*

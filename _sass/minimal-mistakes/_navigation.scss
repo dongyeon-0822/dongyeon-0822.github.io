@@ -198,6 +198,10 @@
 
     &.site-title {
       margin-left: 0;
+      margin-top: 0.3em;
+      font-family: $myfont_2;
+      font-size: large;
+      color: rgb(100, 100, 100);
     }
   }
 
@@ -439,7 +443,8 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
+  color: #516972;
 
   a {
     color: inherit;
@@ -492,8 +497,9 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-family: $myfont_2;
+  font-size: 1rem;
+  color: #0092ca;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
