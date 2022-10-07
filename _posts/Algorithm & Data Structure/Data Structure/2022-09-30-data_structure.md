@@ -1,8 +1,8 @@
 ---
-title:  "[Data Structure] Chapter2-1. 입출력" 
+title:  "[Data Structure] 자료구조 정리" 
 
 categories:
-  - Data Structure
+  - Data_Structure
 tags:
   - [data_structure]
 
@@ -10,8 +10,8 @@ toc: true
 toc_sticky: true
 toc_label: "Content"
 
-date: 2022-09-30
-last_modified_at: 2022-09-30
+date: 2022-10-03
+last_modified_at: 2022-10-03
 ---
 
 # 자료구조란?
