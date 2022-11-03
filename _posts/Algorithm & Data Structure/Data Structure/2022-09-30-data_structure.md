@@ -20,11 +20,11 @@ last_modified_at: 2022-10-03
 
 잘 짜인 자료구조는 메모리 용량을 최소한으로 하고, 실행시간도 단축시킴으로써 보다 효율적인 알고리즘을 실행할 수 있게 한다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a49c3df-7204-4411-ba72-9cae253961e4/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627703-36a1c4d8-4891-4ba6-85d0-4a5fd42aa561.png)
 
 ## 배열 (Array)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3598836a-f162-4e52-92c2-b89a18dd88f8/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627782-23028a77-87b6-4756-b244-2301ff7a74b0.png)
 
 - 가장 기본적인 **선형 데이터 구조**이다.
 - 한 가지 자료형의 데이터를 순차적으로 저장하는 자료구조
@@ -34,7 +34,7 @@ last_modified_at: 2022-10-03
 
 ## 연결리스트 (Linked List)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2008e1e-f85a-4e10-952e-21b64bf2349f/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627823-cb3bda3f-877c-4429-950e-18c33e468086.png)
 
 - 배열의 단점이 보완된 형태의 자료구조로 배열의 크기가 가변적이다.
 - **노드와 포인터**를 사용하여 데이터를 저장 및 연결한다.
@@ -45,14 +45,14 @@ last_modified_at: 2022-10-03
 
 ### 이중 연결리스트 (Double Linked List)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da9d8bb3-b656-488a-be87-40d7f876eb40/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627844-a18fa4da-5ddb-4738-8ae4-709061f0fffe.png)
 
 - 노드가 데이터, 앞뒤 노드의 주소값을 가리키는 포인터로 구성되어 있는 연결 리스트이다.
 - 장점 : 앞뒤 양방향으로 검색이 가능하다.
 
 ## 스택 (Stack)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2f3f79-3aa6-4230-9c8a-e829d8497474/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627882-c2a7a7c6-5d09-456c-94cc-36253f1dc9a9.png)
 
 - 순서가 유지되는 선형 자료구조의 일종
 - 리스트의 한쪽에서만 데이터의 삽입과 삭제가 일어나는 **FILO(First In Last Out)** 메커니즘을 가지고 있다.
@@ -62,7 +62,7 @@ last_modified_at: 2022-10-03
 
 ## 큐 (Queue)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b8240fe-1f68-4e7a-a158-00892eb02bc8/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627899-e0e5acfb-3ae3-41a6-8923-bfd858744da2.png)
 
 - 순서가 유지되는 선형 자료구조의 일종
 - Stack과 반대로 리스트의 한쪽에서는 삽입이 일어나고 다른 쪽에서는 삭제가 일어나는 **FIFO(First In First Out)** 메커니즘을 가지고 있다.
@@ -72,7 +72,7 @@ last_modified_at: 2022-10-03
 
 ## 트리 (Tree)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43a19a51-de8d-4c92-aee1-319f0fd31ae9/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627911-4ae38baf-6090-40bb-8a07-f16fa198e8c5.png){: width="500" height="500"}
 
 - Stack, Queue와는 다르게 **비선형 자료구조**로, 노드와 브랜치를 이용하여 계층적 구조를 표현하는 자료구조이다.
 - 그래프의 한 종류로 **사이클이 없는 하나의 연결 그래프(Connected Graph)** 또는 **방향성이 있는 비순환 그래프(Directed Acyclic Graph)**의 한 종류이다.
@@ -106,7 +106,7 @@ last_modified_at: 2022-10-03
 
 ### 완전 이진 트리(Complete Binary Tree)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21d40d7d-c9dc-4c56-95d7-bc01068e4fc7/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627938-29dc686b-c337-4407-b756-693c57285f9c.png)
 
 - 트리의 모든 높이에서 노드가 꽉 차 있는 이진트리이다.
 - 마지막 레벨을 제외하고 모든 레벨이 채워져 있어야 한다.
@@ -114,13 +114,13 @@ last_modified_at: 2022-10-03
 
 ### 전 이진 트리(Full Binary Tree / Strictly Binary Tree)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86fb37fd-4693-4fd1-a1e2-1cb63f37f2f1/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627963-085012f9-53b8-4eeb-b4f5-573d84ea40dd.png)
 
 - 모든 노드가 0개 또는 2개의 자식 노드를 갖는 트리
 
 ### 포화 이진 트리(Perfect Binary Tree)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2afaf118-afa2-49e7-b2ec-add031b31f64/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199627998-ccf5c719-153a-4f98-8fdd-4a678b194782.png)
 
 - 전 이진 트리 이면서 완전 이진 트리인 트리이다.
 - 모든 내부 노드가 2개의 자식 노드를 가진다.
@@ -128,7 +128,7 @@ last_modified_at: 2022-10-03
 
 ### 힙 (Heap)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55d5add6-4225-4509-b0f0-ee05e7e0ac9a/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199628035-1334ccd2-e898-41d6-b576-e4036e0542ed.png)
 
 - 트리구조를 기반으로 한 자료구조로 데이터에서 최대값과 최소값을 빠르게 찾기 위해 고안된 **완전 이진트리(Complete Binary Tree)** 이다.
 - **우선순위 큐**를 위하여 만들어진 자료구조로 힙으로 우선순위 큐를 구현 시, 삽입과 삭제의 시간 복잡도는 O(log N)이다.
@@ -143,7 +143,7 @@ last_modified_at: 2022-10-03
 
 ## 그래프 (Graph)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e68209f-c06c-4cc3-b84a-2bda8fe4243a/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199628062-89836303-2779-439c-86cf-4276164188a1.png)
 
 - 정점(Vertex)과 간선(Edge)로 이루어진 데이터 구조
 - 탐색 방법에는 깊이 우선 탐색(DFS, Depth First Search)와 너비 우선 탐색(BFS, Breadth First Search)이 있다.
@@ -185,13 +185,13 @@ last_modified_at: 2022-10-03
 
 ### 그래프와 트리의 차이점
 
-![출처 - [https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ad39ee21-df64-400e-92b6-2ee4cc7e9392/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199628345-42f22666-b2a7-4db3-8f8e-6ebe7e057216.png)
 
-출처 - [https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)
+REF -> [https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)
 
 ## 해시 테이블 (Hash Table)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e53fc6bd-24d9-46c5-9439-85acc8801489/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199628469-97aff430-e302-4801-92cb-265117d8b852.png)
 
 - **Key와 Value를 한 쌍**으로 저장하는 자료구조
 - 평균적으로 충돌이 고려하지 않았을 때, 빠른 탐색속도 O(1)을 갖는다.
@@ -204,4 +204,4 @@ last_modified_at: 2022-10-03
 
 ## 시간복잡도 정리
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d42a9f3-b127-4a4f-8b4a-3f185cd2bd77/Untitled.png)
+![image](https://user-images.githubusercontent.com/68420044/199628508-8a7f3f06-5195-4e81-9203-abe86f31a4bc.png)
