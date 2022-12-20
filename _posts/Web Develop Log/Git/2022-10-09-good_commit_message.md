@@ -53,7 +53,6 @@ last_modified_at: 2022-10-09
 | Feat | 새로운 기능의 추가  |
 | Fix | 버그 수정  |
 | Chore | feat이나 fix와 관련 없는 변경 사항, src나 test 파일이 아닌 다른 파일 수정 사항 
-(ex .dependencies 수정 같은 경우) |
 | Refactor | 버그를 고치거나 새로운 기능 추가가 아닌 코드 리팩토링  |
 | Docs | 문서 수정 (README.md) |
 | Style | 스타일 관련 코드 (코드 포맷팅, 세미콜론 누락, 코드 자체의 변경이 없는 경우) |
