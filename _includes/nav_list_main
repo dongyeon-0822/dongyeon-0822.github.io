@@ -25,6 +25,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "SQL" %}
+                        <li><a href="/categories/sql" class="">SQL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
 
         <span class="nav__sub-title">Data Structure & Algorithm</span>
             <ul>
