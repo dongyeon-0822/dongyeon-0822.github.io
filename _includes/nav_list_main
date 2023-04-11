@@ -66,8 +66,8 @@
         <span class="nav__sub-title">Computer Science</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Operating System" %}
-                        <li><a href="/categories/operating-system" class="">Operating System ({{category[1].size}})</a></li>
+                    {% if category[0] == "Operating_System" %}
+                        <li><a href="/categories/operating_system" class="">Operating_System ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

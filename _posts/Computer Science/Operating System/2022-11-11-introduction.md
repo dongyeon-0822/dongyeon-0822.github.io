@@ -1,10 +1,10 @@
 ---
-title:  "[Oprating System] Chapter1. Introduction to Operating System" 
+title:  "[Operating System] Chapter1. Introduction to Operating System" 
 
 categories:
-  - Operating System
+  - Operating_System
 tags:
-  - [computerscience, operating system]
+  - [computer_science, operating_system]
 
 toc: true
 toc_sticky: true
